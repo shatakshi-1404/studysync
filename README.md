@@ -4,7 +4,7 @@
 
 StudySync is a full-stack MERN application that helps students create AI-powered day-by-day study plans, track their progress and test themselves with AI-generated quizzes.
 
-🌐 **Live Demo:** [your-studysync-url.vercel.app]
+🌐 **Live Demo:** https://studysync-teal.vercel.app/
 
 ---
 
